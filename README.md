@@ -1,7 +1,5 @@
 # RESTfulWS
 
-https://youtu.be/qumB9B0aM4Y
-
 a) Instalación
 1
 Clonar este repositorio.
