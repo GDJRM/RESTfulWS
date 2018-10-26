@@ -1,29 +1,21 @@
 # RESTfulWS
-
 a) Instalación
-1
-Clonar este repositorio.
-Correr el programa en su servidor local
-Ejecutar los recursos que desee con la información
-que debe de ser proveída.
-
-2
-Descargar .war
-Correrlo en su máquina
-Ejecutar los comandos de la api
+- Descargar paquete de archivos
+- Abrir el archivo WAR
+- (Recomendacion: Tener JAVA8 Instalado)
+- El programa se ejecutará automaticamente (sin necesidad de instalar dependencias).
 
 b) Uso
-Dirigase a la pantalla principal
-/utm/api/
-Se listarán los diferentes recursos que contiene el programa
-Eliga el de su preferencia y provea de la informacion
-correcta para su funcionamiento exitoso.
-Cada uno de los recursos contiene una OPTIONS para
-ver mpas a detalle que es lo que se necesita.
+- Abrir el programa.
+- Seleccionar la acción o el servicio que se desea ejecutar.
+- Seleccionar archivos, directorios o usuarios dependiendo de la acción.
+- Seguir los pasos para obtener los resultados del servicio.
 
 c) Créditos
-Alejandro Ivan Rodriguez García
-Universidad Tec Milenio
+Alejandro Ivan Rodríguez García
+2686432
+Universidad Tec Milenio Campus Las Torres
+ZURIEL DATHAN MORA FELIX
 
 d) Licencia 
-No Licence
+Producto lanzado con licencia libre.
